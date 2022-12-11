@@ -1,0 +1,3 @@
+D:/Progs/TheLastHeroes/cmake-build-debug/CMakeFiles/SoulSanctum.dir
+D:/Progs/TheLastHeroes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Progs/TheLastHeroes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
